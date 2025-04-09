@@ -1,4 +1,5 @@
 ﻿using BlogAppWebApi.Data;
+using BlogAppWebApi.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -23,6 +24,22 @@ namespace BlogAppWebApi.Controllers
             var category = await dbContext.Category.ToListAsync();
             return Ok(category);
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Create([FromBody] CategoryDto model)
+        {
+            var category = new Category
+            {
+                Name = model.Name,
+                Url = model.Url
+            };
+
+            dbContext.Category.Add(category);
+            await dbContext.SaveChangesAsync();
+
+            return Ok(category);
+        }
+
 
         [HttpGet("/{categoryId}")]
         public async Task<IActionResult> GetByCategory(int categoryId)

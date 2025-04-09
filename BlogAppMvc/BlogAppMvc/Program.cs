@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Net;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
@@ -13,11 +15,27 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         options.AccessDeniedPath = "/Users/AccessDenied"; 
         options.LogoutPath = "/api/Users/Logout";
     });
+
 builder.Services.AddHttpClient("api", client =>
 {
     client.BaseAddress = new Uri("https://localhost:7132/api/");
+    client.DefaultRequestHeaders.Add("Accept", "application/json");
+}).ConfigurePrimaryHttpMessageHandler(() =>
+{
+    var handler = new HttpClientHandler
+    {
+        UseCookies = true,
+        CookieContainer = new CookieContainer(),
+        ServerCertificateCustomValidationCallback = (message, cert, chain, errors) => true
+    };
+    return handler;
 });
 
+builder.Services.Configure<CookiePolicyOptions>(options =>
+{
+    options.CheckConsentNeeded = context => false;
+    options.MinimumSameSitePolicy = SameSiteMode.None;
+});
 
 var app = builder.Build();
 
@@ -40,6 +58,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Posts}/{action=Index}/{id?}");
 
 app.Run();

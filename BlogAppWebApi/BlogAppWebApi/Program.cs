@@ -8,7 +8,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
+    });
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -19,10 +24,30 @@ builder.Services.AddDbContext<BlogAppDbContext>(options =>
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
 {
-    options.AccessDeniedPath = "/api/Users/AccessDenied";
     options.Cookie.Name = "BlogAppAuth";
+    options.Cookie.HttpOnly = true;
+    options.Cookie.SameSite = SameSiteMode.None; // Cross-site cookie için
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always; // HTTPS gerektirir
     options.LoginPath = "/api/Users/Login";
     options.LogoutPath = "/api/Users/Logout";
+    options.AccessDeniedPath = "/api/Users/AccessDenied";
+    options.Events = new CookieAuthenticationEvents
+    {
+        OnRedirectToLogin = context =>
+        {
+            context.Response.StatusCode = 401;
+            return Task.CompletedTask;
+        }
+    };
+});
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowMvc",
+        builder => builder.WithOrigins("https://localhost:[MVC_PORT]")
+                         .AllowAnyHeader()
+                         .AllowAnyMethod()
+                         .AllowCredentials());
 });
 
 builder.Services.AddScoped<IPasswordHasher<User>, PasswordHasher<User>>();

@@ -20,12 +20,14 @@
                     <tr>
                         <td><img src="~/img/@item.Image" class="img-fluid" alt=""></td>
                         <td>@item.Title</td>
-                        <td>@item.Category</td>
+                        <td>@item.CategoryName</td>
                         <td>@item.IsActive</td>
                         <td>
-                            <a asp-controller="Posts" asp-action="Edit" asp-route-id="@item.PostId" class="btn btn-sm btn-primary">Edit</a>
-                            <a href="#" class="btn btn-sm btn-danger">Delete</a>
+                            <a asp-action="Details" asp-route-id="@item.PostId" class="btn btn-sm btn-info">Detail</a>
+                            <a asp-action="Edit" asp-route-id="@item.PostId" class="btn btn-sm btn-primary">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.PostId" class="btn btn-sm btn-danger">Delete</a>
                         </td>
+
                     </tr>
                 }
             </tbody>

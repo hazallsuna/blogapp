@@ -142,3 +142,4 @@ C:\Users\Monster\Desktop\blogproje\BlogAppWebApi\BlogAppWebApi\obj\Debug\net8.0\
 C:\Users\Monster\Desktop\blogproje\BlogAppWebApi\BlogAppWebApi\obj\Debug\net8.0\BlogAppWebApi.pdb
 C:\Users\Monster\Desktop\blogproje\BlogAppWebApi\BlogAppWebApi\obj\Debug\net8.0\BlogAppWebApi.genruntimeconfig.cache
 C:\Users\Monster\Desktop\blogproje\BlogAppWebApi\BlogAppWebApi\obj\Debug\net8.0\ref\BlogAppWebApi.dll
+C:\Users\Monster\Desktop\blogproje\BlogAppWebApi\BlogAppWebApi\obj\Debug\net8.0\BlogAppWebApi.sourcelink.json

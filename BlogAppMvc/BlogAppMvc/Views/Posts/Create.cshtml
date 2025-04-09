@@ -37,9 +37,8 @@
 
                 <!-- Category Dropdown -->
                 <div class="mb-3">
-                    <label asp-for="CategoryId" class="form-label"></label>
-                    <select asp-for="CategoryId" asp-items="@(new SelectList(Model.Categories, "CategoryId", "Name"))" class="form-select">
-                        <option value="">-- Select Category --</option>
+                    <select asp-for="CategoryId" asp-items="Model.Categories.Select(c => new SelectListItem { Value = c.CategoryId.ToString(), Text = c.Name })" class="form-control">
+                        <option value="">Select a category</option>
                     </select>
                     <span asp-validation-for="CategoryId" class="text-danger"></span>
                 </div>

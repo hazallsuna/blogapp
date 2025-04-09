@@ -1,0 +1,22 @@
+﻿@model CommentViewModel
+
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <div class="bg-white p-4 rounded shadow-sm">
+            <h4>Yorum Ekle</h4>
+
+            <form asp-action="AddComment" method="post">
+                <input type="hidden" asp-for="PostId" />
+
+                <div class="mb-3">
+                    <label asp-for="Text" class="form-label">Yorum</label>
+                    <textarea asp-for="Text" class="form-control" rows="5"></textarea>
+                    <span asp-validation-for="Text" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-success">Gönder</button>
+            </form>
+        </div>
+    </div>
+</div>
+

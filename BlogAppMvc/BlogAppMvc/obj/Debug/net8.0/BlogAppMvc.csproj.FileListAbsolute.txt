@@ -36,3 +36,4 @@ C:\Users\Monster\Desktop\blogproje\BlogAppMvc\BlogAppMvc\obj\Debug\net8.0\refint
 C:\Users\Monster\Desktop\blogproje\BlogAppMvc\BlogAppMvc\obj\Debug\net8.0\BlogAppMvc.pdb
 C:\Users\Monster\Desktop\blogproje\BlogAppMvc\BlogAppMvc\obj\Debug\net8.0\BlogAppMvc.genruntimeconfig.cache
 C:\Users\Monster\Desktop\blogproje\BlogAppMvc\BlogAppMvc\obj\Debug\net8.0\ref\BlogAppMvc.dll
+C:\Users\Monster\Desktop\blogproje\BlogAppMvc\BlogAppMvc\obj\Debug\net8.0\BlogAppMvc.sourcelink.json

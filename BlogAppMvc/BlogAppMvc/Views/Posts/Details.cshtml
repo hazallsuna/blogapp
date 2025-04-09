@@ -1,0 +1,55 @@
+﻿@model PostViewModel
+
+<div class="row">
+    <div class="col-lg-8">
+        <!-- Blog Başlığı -->
+        <div class="bg-white p-4 mb-4 rounded shadow-sm">
+            <h1 class="h3">@Model.Title</h1>
+            <p class="text-muted">@Model.Description</p>
+            <img src="~/img/@Model.Image" alt="Post Görseli" class="img-fluid rounded my-3" />
+            <div class="content">
+                @Html.Raw(Model.Content)
+            </div>
+        </div>
+
+        <!-- Yorumlar -->
+        <div class="bg-white p-4 mb-4 rounded shadow-sm">
+            <h4 class="mb-4">@Model.Comments.Count yorum</h4>
+
+            @foreach (var comment in Model.Comments)
+            {
+                <div class="border-bottom mb-3 pb-3">
+                    <div class="d-flex justify-content-between">
+                        <strong>@comment.User</strong>
+                        <span class="text-muted small">@comment.PublishedDate.ToString("dd MMMM yyyy HH:mm")</span>
+                    </div>
+                    <p class="mt-2">@comment.Text</p>
+                </div>
+            }
+
+            @if (User.Identity != null && User.Identity.IsAuthenticated)
+            {
+                <div class="text-end mt-3">
+                    <a href="/Posts/AddComment?postId=@Model.PostId" class="btn btn-outline-primary">Yorum Ekle</a>
+                </div>
+            }
+            else
+            {
+                <p class="text-muted mt-3">
+                    Yorum yapabilmek için
+                    <a href="/Users/Login?returnUrl=/Posts/Details/@Model.PostId">giriş yapmalısınız</a>.
+                </p>
+            }
+
+        </div>
+    </div>
+
+
+@section Scripts {
+    @if (TempData["Error"] != null)
+    {
+        <script>
+            alert("@TempData["Error"]");
+        </script>
+    }
+}

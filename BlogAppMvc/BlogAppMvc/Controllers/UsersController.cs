@@ -16,18 +16,20 @@ namespace BlogAppMvc.Controllers
         }
 
         [HttpGet]
-        public IActionResult Login()
+        public IActionResult Login(string? returnUrl=null)
         {
-            if (User.Identity!.IsAuthenticated)
+            if (User.Identity != null && User.Identity!.IsAuthenticated)
             {
                 return RedirectToAction
                 ("Index", "Posts");
             }
+
+            ViewData["ReturnUrl"] = returnUrl;
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginViewModel model)
+        public async Task<IActionResult> Login(LoginViewModel model , string? returnUrl =null)
         {
             if(!ModelState.IsValid)
                 return View(model);
@@ -37,11 +39,17 @@ namespace BlogAppMvc.Controllers
 
             if (response.IsSuccessStatusCode)
             {
+                if (!string.IsNullOrEmpty(returnUrl) && Url.IsLocalUrl(returnUrl))
+                {
+                    return Redirect(returnUrl);
+                }
+
                 return RedirectToAction("Index", "Posts");
             }
             ModelState.AddModelError("", "Invalid email or password.");
             return View(model);
         }
+
         [HttpPost]
         public async Task<IActionResult> Logout()
         {

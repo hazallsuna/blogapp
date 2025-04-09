@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\data\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\data\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\migrations\\20250408115426_removeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\migrations\\20250408115426_removeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\postlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\postlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\data\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\data\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +53,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\migrations\\20250408115426_removeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|solutionrelative:blogappwebapi\\migrations\\20250408115426_removeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46BE8EB3-1F60-4101-9527-6D0150770872}|BlogAppWebApi\\BlogAppWebApi.csproj|c:\\users\\monster\\desktop\\blogproje\\blogappwebapi\\blogappwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -74,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PostsController.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "BlogAppWebApi\\Controllers\\PostsController.cs",
               "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\PostsController.cs",
               "RelativeToolTip": "BlogAppWebApi\\Controllers\\PostsController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAuwDUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwHYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T19:24:35.589Z",
               "EditorCaption": ""
@@ -96,90 +104,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\Post.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\Post.cs",
-              "RelativeToolTip": "BlogAppWebApi\\Models\\Post.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:01:52.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\LoginDto.cs",
-              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\LoginDto.cs",
-              "RelativeToolTip": "BlogAppWebApi\\Models\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T15:52:21.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\CommentsController.cs",
-              "RelativeDocumentMoniker": "BlogAppWebApi\\Controllers\\CommentsController.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\CommentsController.cs",
-              "RelativeToolTip": "BlogAppWebApi\\Controllers\\CommentsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwDQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:30:03.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BlogAppWebApi\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\UsersController.cs",
               "RelativeToolTip": "BlogAppWebApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAiwF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwEoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T16:54:05.257Z"
+              "WhenOpened": "2025-04-07T16:54:05.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "BlogAppWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Program.cs",
-              "RelativeToolTip": "BlogAppWebApi\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T16:14:38.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BlogAppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Data\\BlogAppDbContext.cs",
-              "RelativeDocumentMoniker": "BlogAppWebApi\\Data\\BlogAppDbContext.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Data\\BlogAppDbContext.cs",
-              "RelativeToolTip": "BlogAppWebApi\\Data\\BlogAppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T16:10:23.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BlogAppWebApi\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BlogAppWebApi\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:56:04.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\Comment.cs",
@@ -191,19 +128,142 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Program.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:14:38.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\Category.cs",
               "RelativeToolTip": "BlogAppWebApi\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T18:55:17.212Z"
+              "WhenOpened": "2025-04-07T18:55:17.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\CategoryDto.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Models\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:25:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:56:04.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\Post.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Models\\Post.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:01:52.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:30:03.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\User.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:35:48.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\PostListDto.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\PostListDto.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\PostListDto.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Models\\PostListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:26:33.124Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "BlogAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Data\\BlogAppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Data\\BlogAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Data\\BlogAppDbContext.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Data\\BlogAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:10:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:51:29.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\LoginDto.cs",
+              "RelativeToolTip": "BlogAppWebApi\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:52:21.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "20250408115426_removeImage.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Migrations\\20250408115426_removeImage.cs",
               "RelativeDocumentMoniker": "BlogAppWebApi\\Migrations\\20250408115426_removeImage.cs",
@@ -215,31 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\User.cs",
-              "RelativeToolTip": "BlogAppWebApi\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T15:35:48.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "BlogAppWebApi\\Models\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Models\\RegisterDto.cs",
-              "RelativeToolTip": "BlogAppWebApi\\Models\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T15:51:29.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BlogAppWebApi\\Properties\\launchSettings.json",
@@ -251,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "BlogAppWebApi\\appsettings.json",
@@ -263,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20250407163500_databaseInit.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\blogproje\\BlogAppWebApi\\BlogAppWebApi\\Migrations\\20250407163500_databaseInit.cs",
               "RelativeDocumentMoniker": "BlogAppWebApi\\Migrations\\20250407163500_databaseInit.cs",

@@ -22,12 +22,23 @@ namespace BlogAppWebApi.Controllers
         public async Task<IActionResult> GetAll()
         {
             var posts = await dbContext.Post
-                .Include(p => p.User)
                 .Include(p => p.Category)
+                .Select(p => new PostListDto
+                {
+                    PostId = p.PostId,
+                    Title = p.Title,
+                    Content = p.Content,
+                    Description = p.Description,
+                    Url = p.Url,
+                    Image = p.Image,
+                    IsActive = p.IsActive,
+                    CategoryName = p.Category.Name
+                })
                 .ToListAsync();
 
             return Ok(posts);
         }
+
 
         // Belirli bir blog yazısını getir
         [HttpGet("{id}")]

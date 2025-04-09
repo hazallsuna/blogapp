@@ -9,6 +9,8 @@
         public string Url { get; set; }
         public string Image { get; set; }
         public bool IsActive { get; set; }
-        public string Category { get; set; }
+        public string CategoryName { get; set; }
+
+        public List<CommentViewModel> Comments { get; set; } = new();
     }
 }
